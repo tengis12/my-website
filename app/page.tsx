@@ -18,7 +18,7 @@ export default function Home() {
             By{' '}
             <Image
               src="https://tengis12.github.io/my-website//vercel.svg"
-              alt="Vercel Logo"
+              alt="Tengis logo"
               className="dark:invert"
               width={100}
               height={24}
